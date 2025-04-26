@@ -6,7 +6,7 @@ Repositorio asociado al artículo *Demostración Incondicional de la Hipótesis 
 - `datos/`: Resultados numéricos (ceros de funciones \(L\) y autovalores).  
 
 ## Instrucciones
-1.-**Instala dependencias**
+1. **Instala dependencias**:
    ```bash
    sage -pip install requests pandas  
 2. **Ejecutar el código**:  
