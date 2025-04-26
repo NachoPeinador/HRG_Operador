@@ -9,6 +9,6 @@ Repositorio asociado al artículo *Demostración Incondicional de la Hipótesis 
 1.-**Instala dependencias**
    ```bash
    sage -pip install requests pandas  
-1. **Ejecutar el código**:  
+2. **Ejecutar el código**:  
    ```bash  
    sage HRG_Operador.sage  
