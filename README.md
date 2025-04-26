@@ -1,2 +1,11 @@
-# HRG_Operador
-Código SageMath y datos numéricos para el artículo "Demostración Incondicional de la Hipótesis de Riemann Generalizada"
+# HRG_Operador  
+Repositorio asociado al artículo *Demostración Incondicional de la Hipótesis de Riemann Generalizada*.  
+
+## Contenido  
+- `HRG_Operador.sage`: Código SageMath para construir el operador modular \(\hat{H}_q^\chi\).  
+- `datos/`: Resultados numéricos (ceros de funciones \(L\) y autovalores).  
+
+## Instrucciones  
+1. **Ejecutar el código**:  
+   ```bash  
+   sage HRG_Operador.sage  
